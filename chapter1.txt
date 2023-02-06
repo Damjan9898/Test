@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 XXX
+=======
+Menjanje prvog fajla
+>>>>>>> a0ac253ab1c80599370e95617227abc34c40b319
